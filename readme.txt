@@ -1,1 +1,2 @@
-Chạy app.py trong folder 'test' trong terminal để khởi động mô hình dự đoán
+- Chạy app.py trong folder 'test' trong terminal (python app.py) để khởi động mô hình dự đoán
+- Username: admin || Password: admin123
