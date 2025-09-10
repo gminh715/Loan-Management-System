@@ -83,9 +83,3 @@ ML API available at: http://localhost:5000
 - Risk prediction during loan creation
 - Default probability returned instantly
 - API-driven decision support
-
----
-
-## 📌 License
-
-MIT License – Feel free to use, modify, and distribute.
